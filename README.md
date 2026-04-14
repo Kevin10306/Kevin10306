@@ -44,13 +44,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kevin10306&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin10306&layout=compact&theme=radical&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kevin10306&theme=radical&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 </div>
