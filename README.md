@@ -2,7 +2,7 @@
 
 # Hi, I'm Kevin Ferdinand Nugroho 👋
 
-🎓 Informatics Student | 💻 Developer | 🎨 UI/UX Enthusiast
+🎓 Software Engineering Student | 💻 Developer | 🎨 UI/UX Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Java+%7C+C%2B%2B+%7C+JavaScript+Developer;UI%2FUX+Designer+with+Figma;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
